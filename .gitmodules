@@ -1,0 +1,15 @@
+[submodule "template__cmake"]
+	path = template__cmake
+	url = git@github.com:gen740/template__cmake.git
+[submodule "git_cmake"]
+	path = git_cmake
+	url = git@github.com:gen740/template__cmake.git
+[submodule "cmake/.cmake/cotire"]
+	path = cmake/.cmake/cotire
+	url = https://github.com/sakra/cotire.git
+[submodule "cmake/cotire"]
+	path = cmake/cotire
+	url = https://github.com/sakra/cotire.git
+[submodule "cmake/.cotire"]
+	path = cmake/.cotire
+	url = https://github.com/sakra/cotire.git
