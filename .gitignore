@@ -1,6 +1,7 @@
 # Mac
 .DS_Store
 .ccls-cache
+.cotire
 
 # Executables
 *.a
