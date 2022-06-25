@@ -2,7 +2,7 @@
 project_name = document
 
 run: build
-	open $(project_name).pdf
+	open -a /Applications/LivePDFviewer.app $(project_name).pdf
 
 build:
 	lualatex $(project_name).tex
